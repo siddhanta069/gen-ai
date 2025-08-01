@@ -1,0 +1,23 @@
+{
+  "name": "gen-ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhanta069/gen-ai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddhanta069/gen-ai/issues"
+  },
+  "homepage": "https://github.com/siddhanta069/gen-ai#readme",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.12.0",
+    "readline-sync": "^1.4.10"
+  }
+}
